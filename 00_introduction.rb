@@ -6,3 +6,4 @@
 # Ruby is a dynamic, reflective, object-oriented,
 #   general-purpose programming language.
 # Favors developers productivity over machine
+# Feels like English language
