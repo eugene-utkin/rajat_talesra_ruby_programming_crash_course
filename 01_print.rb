@@ -9,3 +9,4 @@ puts "Hello"
 print "World"
 
 # Example 2
+print "Hello"
