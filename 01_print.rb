@@ -7,3 +7,5 @@ puts 'Like, share and subscribe'
 # Example 1
 puts "Hello"
 print "World"
+
+# Example 2
