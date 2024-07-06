@@ -17,3 +17,4 @@ print "Hello"
 print "World"
 
 # Example 4
+puts "Hello"
