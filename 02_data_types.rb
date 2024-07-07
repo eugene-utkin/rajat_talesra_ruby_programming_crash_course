@@ -6,3 +6,5 @@
 =end
 
 puts "\n\n\n"
+
+my_num = 25
