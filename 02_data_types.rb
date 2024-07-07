@@ -4,3 +4,5 @@
   Data types are: String, Number, Boolean,
     Nil, Arrays, Hashes, Symbols
 =end
+
+puts "\n\n\n"
