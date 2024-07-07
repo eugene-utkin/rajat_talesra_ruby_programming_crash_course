@@ -7,4 +7,4 @@
 
 puts "\n\n\n"
 
-my_num = 25
+my_num = 25         # Integer
