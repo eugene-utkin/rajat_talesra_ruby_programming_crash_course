@@ -8,3 +8,4 @@
 puts "\n\n\n"
 
 my_num = 25         # Integer
+my_boolean = true
