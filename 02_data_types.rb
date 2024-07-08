@@ -11,3 +11,5 @@ my_num = 25         # Integer
 my_boolean = true   # Boolean
 my_string = "Ruby"  # String
 my_float = 3.14     # Float/Decimal
+
+puts my_num
