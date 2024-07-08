@@ -3,4 +3,5 @@
 =begin
   + addition
   - subtraction
+  * multiplication
 =end
