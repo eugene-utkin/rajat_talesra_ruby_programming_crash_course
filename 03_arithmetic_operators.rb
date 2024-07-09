@@ -4,4 +4,5 @@
   + addition
   - subtraction
   * multiplication
+  / division
 =end
