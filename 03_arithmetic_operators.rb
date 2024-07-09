@@ -9,3 +9,5 @@
   ** exponential (power)
 =end
 puts "\n\n\n"
+
+a = 7
