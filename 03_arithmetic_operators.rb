@@ -15,3 +15,5 @@ b = 2
 
 puts a + b
 # Output: 9
+
+puts a - b
