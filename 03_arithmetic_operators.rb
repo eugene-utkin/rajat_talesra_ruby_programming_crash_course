@@ -5,4 +5,5 @@
   - subtraction
   * multiplication
   / division
+  % modulo (remainder)
 =end
