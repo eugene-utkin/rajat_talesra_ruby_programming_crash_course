@@ -6,4 +6,5 @@
   * multiplication
   / division
   % modulo (remainder)
+  ** exponential (power)
 =end
