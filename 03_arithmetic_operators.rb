@@ -12,3 +12,5 @@ puts "\n\n\n"
 
 a = 7
 b = 2
+
+puts a + b
