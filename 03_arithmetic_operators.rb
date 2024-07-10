@@ -27,3 +27,5 @@ puts a % b
 
 puts a ** b
 # Output: 49
+
+puts a / b
