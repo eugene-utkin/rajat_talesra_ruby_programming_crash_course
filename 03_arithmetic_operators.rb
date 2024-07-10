@@ -18,3 +18,5 @@ puts a + b
 
 puts a - b
 # Output: 5
+
+puts a * b
