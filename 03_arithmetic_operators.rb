@@ -21,3 +21,5 @@ puts a - b
 
 puts a * b
 # Output: 14
+
+puts a % b
