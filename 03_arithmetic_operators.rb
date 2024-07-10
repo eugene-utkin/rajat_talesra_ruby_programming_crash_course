@@ -20,3 +20,4 @@ puts a - b
 # Output: 5
 
 puts a * b
+# Output: 14
