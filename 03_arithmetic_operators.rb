@@ -32,3 +32,4 @@ puts a / b
 # Output 3
 
 c = 9.0
+d = 4
