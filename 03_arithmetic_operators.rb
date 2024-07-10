@@ -23,3 +23,4 @@ puts a * b
 # Output: 14
 
 puts a % b
+# Output: 1
