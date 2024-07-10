@@ -24,3 +24,5 @@ puts a * b
 
 puts a % b
 # Output: 1
+
+puts a ** b
