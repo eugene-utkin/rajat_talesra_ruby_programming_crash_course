@@ -29,3 +29,4 @@ puts a ** b
 # Output: 49
 
 puts a / b
+# Output 3
