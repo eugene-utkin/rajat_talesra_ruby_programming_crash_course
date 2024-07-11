@@ -35,3 +35,4 @@ c = 9.0
 d = 4
 
 puts c / d
+# Output: 2.25
