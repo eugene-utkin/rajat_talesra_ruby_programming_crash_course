@@ -3,3 +3,5 @@
 =begin
   Adding variables to a string
 =end
+puts "\n\n\n"
+
