@@ -6,3 +6,5 @@
 puts "\n\n\n"
 
 name = "Rajat"
+
+puts "Hello, #{name}!"
