@@ -33,3 +33,5 @@ puts a / b
 
 c = 9.0
 d = 4
+
+puts c / d
