@@ -8,4 +8,4 @@ puts "\n\n\n"
 name = "Rajat"
 
 puts "Hello, #{name}!"
-puts 'Hello, #{name}!'
+puts 'Hello, #{name}!' # Does not work in single quotes
