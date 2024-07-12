@@ -9,3 +9,5 @@ name = "Rajat"
 
 puts "Hello, #{name}!"
 puts 'Hello, #{name}!' # Does not work in single quotes
+
+puts "Hello, " + name + "!"
