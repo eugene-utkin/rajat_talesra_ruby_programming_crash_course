@@ -10,3 +10,5 @@
   - to_c -> to_Complex
 =end
 puts "\n\n\n"
+
+# Integer to other data types
