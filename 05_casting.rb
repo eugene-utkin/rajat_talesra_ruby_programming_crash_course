@@ -7,4 +7,5 @@
   - to_f -> to_Float
   - to_a -> to_Array
   - to_r -> to_Rational
+  - to_c -> to_Complex
 =end
