@@ -16,3 +16,4 @@ puts 1.to_f
 puts 1.to_s
 
 # Float to other data types
+puts 3.14.to_i
