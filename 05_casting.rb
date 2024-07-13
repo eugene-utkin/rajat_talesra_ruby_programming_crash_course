@@ -12,3 +12,4 @@
 puts "\n\n\n"
 
 # Integer to other data types
+puts 1.to_f
