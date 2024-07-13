@@ -5,4 +5,5 @@
   - to_i -> to_Integer
   - to_s -> to_String
   - to_f -> to_Float
+  - to_a -> to_Array
 =end
