@@ -24,3 +24,5 @@ puts "999".to_i
 puts "999".to_f
 puts "999".to_r
 puts "999".to_c
+
+# Example
