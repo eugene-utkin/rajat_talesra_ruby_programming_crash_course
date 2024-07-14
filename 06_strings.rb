@@ -1,0 +1,1 @@
+# Strings and most used methods
