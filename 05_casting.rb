@@ -21,3 +21,4 @@ puts 3.14.to_s
 
 # String to other data types
 puts "999".to_i
+puts "999".to_f
