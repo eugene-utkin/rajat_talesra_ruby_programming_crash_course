@@ -26,3 +26,4 @@ puts "999".to_r
 puts "999".to_c
 
 # Example
+puts 100 + "20+1i".to_c
