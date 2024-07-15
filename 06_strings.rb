@@ -2,4 +2,5 @@
 
 =begin
   Some of the most used methods of strings are:
+  - upcase
 =end
