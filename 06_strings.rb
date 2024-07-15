@@ -13,3 +13,4 @@ text = "Hello World!"
 
 puts "upcase: " + text.upcase
 puts "downcase: " + text.downcase
+puts "capitalize: " + text.capitalize
