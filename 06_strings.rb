@@ -7,3 +7,4 @@
   - reverse
   - length
 =end
+puts "\n\n\n"
