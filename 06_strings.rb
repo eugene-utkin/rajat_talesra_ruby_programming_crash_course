@@ -8,3 +8,5 @@
   - length
 =end
 puts "\n\n\n"
+
+text = "Hello World!"
