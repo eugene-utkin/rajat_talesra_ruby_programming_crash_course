@@ -26,3 +26,4 @@ How are you
 "
 
 # Multi-line with `%//`
+puts %/Second string/
