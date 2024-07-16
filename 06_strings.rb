@@ -20,3 +20,7 @@ puts "length: #{text.length}"
 puts "original text: " + text
 
 # Multi-line with `""`
+puts "
+  Hello Rajat
+  How are you
+"
