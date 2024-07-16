@@ -18,3 +18,5 @@ puts "reverse: " + text.reverse
 puts "length: #{text.length}"
 
 puts "original text: " + text
+
+# Multi-line with `""`
