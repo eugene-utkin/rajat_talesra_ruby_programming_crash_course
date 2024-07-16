@@ -16,3 +16,5 @@ puts "downcase: " + text.downcase
 puts "capitalize: " + text.capitalize
 puts "reverse: " + text.reverse
 puts "length: #{text.length}"
+
+puts "original text: " + text
