@@ -24,3 +24,5 @@ puts "
 Hello Rajat
 How are you
 "
+
+# Multi-line with `%//`
