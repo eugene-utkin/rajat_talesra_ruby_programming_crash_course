@@ -29,3 +29,9 @@ How are you
 puts %/Second string/
 
 # Multi-line with `<<RANDOM_IDENTIFIER RANDOM_IDENTIFIER`
+puts <<RANDOM_IDENTIFIER
+In ruby, a user can create the multiline
+strings easily where into other programming
+languages creating multiline strings
+requires a lot of efforts
+RANDOM_IDENTIFIER
