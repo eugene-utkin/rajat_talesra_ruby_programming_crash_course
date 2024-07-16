@@ -27,3 +27,5 @@ How are you
 
 # Multi-line with `%//`
 puts %/Second string/
+
+# Multi-line with `<<RANDOM_IDENTIFIER RANDOM_IDENTIFIER`
