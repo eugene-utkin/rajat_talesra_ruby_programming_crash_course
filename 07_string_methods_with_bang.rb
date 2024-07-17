@@ -6,3 +6,5 @@
 puts "\n\n\n"
 
 text = "Hello World"
+
+puts "upcase: " + text.upcase
