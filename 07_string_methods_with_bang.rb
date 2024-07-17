@@ -9,3 +9,5 @@ text = "Hello World"
 
 puts "upcase: " + text.upcase
 puts "original: " + text
+
+text2 = "Rajat Talesra"
