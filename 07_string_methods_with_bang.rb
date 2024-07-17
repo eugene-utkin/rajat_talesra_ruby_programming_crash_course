@@ -8,3 +8,4 @@ puts "\n\n\n"
 text = "Hello World"
 
 puts "upcase: " + text.upcase
+puts "original: " + text
