@@ -9,3 +9,4 @@ new_string = "Hi Rajat"
 
 puts new_string[0]
 puts new_string[1]
+puts "\n"
