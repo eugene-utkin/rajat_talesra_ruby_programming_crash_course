@@ -10,3 +10,4 @@ new_string = "Hi Rajat"
 puts new_string[0] # H
 puts new_string[1] # i
 puts "\n"
+puts new_string[3, 2]
