@@ -12,3 +12,4 @@ puts new_string[1] # i
 puts "\n"
 puts new_string[3, 2] # [starting_index, number_of_characters]
 puts "\n"
+puts new_string.include? "Hi"
