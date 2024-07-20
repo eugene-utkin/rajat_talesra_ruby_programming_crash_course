@@ -18,4 +18,4 @@ puts "\n"
 puts new_string.split(" ")
 
 puts new_string.gsub('a', 'u') # replaces all valid characters
-puts new_string.sub('a', 'u')
+puts new_string.sub('a', 'u') # replaces the first valid character
