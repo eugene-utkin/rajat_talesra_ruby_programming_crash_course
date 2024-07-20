@@ -16,3 +16,5 @@ puts new_string.include? "Hi"
 puts new_string.include? "Hello"
 puts "\n"
 puts new_string.split(" ")
+
+puts new_string.gsub('a', 'u')
