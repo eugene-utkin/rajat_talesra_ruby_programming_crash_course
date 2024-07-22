@@ -2,3 +2,4 @@
 puts "\n\n\n"
 
 a = -766.4
+puts a.abs()
