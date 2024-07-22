@@ -1,2 +1,4 @@
 # Math Methods
 puts "\n\n\n"
+
+a = -766.4
