@@ -8,3 +8,5 @@ puts a.round()
 b = 576.2
 puts b.floor()
 puts b.ceil()
+
+puts Math.sqrt(4)
