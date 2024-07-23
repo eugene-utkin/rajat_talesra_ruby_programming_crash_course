@@ -10,3 +10,4 @@ puts b.floor()
 puts b.ceil()
 
 puts Math.sqrt(4)
+puts Math.log(100)
