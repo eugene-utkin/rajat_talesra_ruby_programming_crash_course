@@ -9,3 +9,4 @@ puts "\n\n\n"
 puts "What's your first name?"
 name = gets
 puts "\n"
+puts "Hello #{name}, how are you?"
