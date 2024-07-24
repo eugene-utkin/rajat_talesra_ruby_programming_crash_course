@@ -12,4 +12,4 @@ puts "\n"
 puts "Hello #{name}, how are you?"
 
 puts "\n\n"
-puts "What's your first name?"
+puts "What's your age?"
