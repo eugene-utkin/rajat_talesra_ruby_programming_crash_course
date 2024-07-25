@@ -19,3 +19,5 @@ puts "#{age}, that's old!"
 puts "\n\n"
 puts "Enter first number: "
 a = gets.chomp
+
+puts "Enter second number: "
