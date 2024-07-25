@@ -17,3 +17,4 @@ age = gets.chomp
 puts "#{age}, that's old!"
 
 puts "\n\n"
+puts "Enter first number: "
