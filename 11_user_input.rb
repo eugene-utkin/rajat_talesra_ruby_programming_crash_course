@@ -22,3 +22,5 @@ a = gets.chomp
 
 puts "Enter second number: "
 b = gets.chomp
+
+puts a + b
