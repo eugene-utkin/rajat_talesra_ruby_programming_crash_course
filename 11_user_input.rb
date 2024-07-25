@@ -24,3 +24,4 @@ puts "Enter second number: "
 b = gets.chomp
 
 puts a + b
+puts a.to_i + b.to_i
