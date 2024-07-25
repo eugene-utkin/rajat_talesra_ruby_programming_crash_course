@@ -21,3 +21,4 @@ puts "Enter first number: "
 a = gets.chomp
 
 puts "Enter second number: "
+b = gets.chomp
