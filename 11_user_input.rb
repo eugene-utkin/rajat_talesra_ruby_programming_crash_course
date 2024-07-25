@@ -14,3 +14,4 @@ puts "Hello #{name}, how are you?"
 puts "\n\n"
 puts "What's your age?"
 age = gets.chomp
+puts "#{age}, that's old!"
