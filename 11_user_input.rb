@@ -15,3 +15,5 @@ puts "\n\n"
 puts "What's your age?"
 age = gets.chomp
 puts "#{age}, that's old!"
+
+puts "\n\n"
