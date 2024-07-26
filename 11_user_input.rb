@@ -23,5 +23,5 @@ a = gets.chomp
 puts "Enter second number: "
 b = gets.chomp
 
-puts a + b # "6" + "5"
+puts a + b # "6" + "5" = "65"
 puts a.to_i + b.to_i
