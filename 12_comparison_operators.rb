@@ -5,4 +5,5 @@
     > greater than
     < less then
     >= greater than or equal to
+    <= less then or equal to
 =end
