@@ -7,4 +7,5 @@
     >= greater than or equal to
     <= less then or equal to
     == equal to
+    != not equal to
 =end
