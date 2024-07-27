@@ -10,3 +10,5 @@
     != not equal to
 =end
 puts "\n\n\n"
+
+a = 100
