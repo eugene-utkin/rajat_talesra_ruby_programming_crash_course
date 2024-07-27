@@ -16,4 +16,4 @@ b = 10
 c = 10
 
 puts a > b # true
-
+puts a < c
