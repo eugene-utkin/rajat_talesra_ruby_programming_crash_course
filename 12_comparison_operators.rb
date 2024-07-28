@@ -19,4 +19,4 @@ puts a > b # true
 puts a < c # false
 puts a <= c # false
 puts b >= c # true
-puts b == c
+puts b == c # true
