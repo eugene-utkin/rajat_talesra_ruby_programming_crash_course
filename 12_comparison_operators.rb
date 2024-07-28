@@ -18,3 +18,4 @@ c = 10
 puts a > b # true
 puts a < c # false
 puts a <= c # false
+puts b >= c
