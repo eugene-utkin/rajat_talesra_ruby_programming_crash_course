@@ -3,4 +3,5 @@
 =begin
   Boolean Operators:
     == equals to
+    && and
 =end
