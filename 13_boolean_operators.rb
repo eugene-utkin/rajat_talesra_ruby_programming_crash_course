@@ -12,4 +12,4 @@ puts "\n\n\n"
 puts "Results of AND"
 
 and_test = ( 1 == 1 ) && ( "R" == "R" )
-puts and_test
+puts and_test # true
