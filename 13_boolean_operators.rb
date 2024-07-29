@@ -2,4 +2,5 @@
 
 =begin
   Boolean Operators:
+    == equals to
 =end
