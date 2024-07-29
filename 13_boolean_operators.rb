@@ -8,3 +8,6 @@
     !  not
 =end
 puts "\n\n\n"
+
+puts "Results of AND"
+
