@@ -5,4 +5,5 @@
     == equals to
     && and
     || or
+    !  not
 =end
