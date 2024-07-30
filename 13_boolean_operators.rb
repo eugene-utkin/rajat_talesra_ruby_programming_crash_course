@@ -16,3 +16,5 @@ puts and_test # true
 
 and_test = ( 10 == 10 ) && true
 puts and_test #true
+
+and_test = ( 1 != 1 ) && ( 2 == 2 )
