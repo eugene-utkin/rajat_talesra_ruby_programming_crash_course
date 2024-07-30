@@ -21,3 +21,5 @@ and_test = ( 1 != 1 ) && ( 2 == 2 )
 puts and_test #false
 
 puts "\n\nResults of OR"
+
+or_test = ( 1 != 1 ) || ( "R" == "R" )
