@@ -19,3 +19,5 @@ puts and_test #true
 
 and_test = ( 1 != 1 ) && ( 2 == 2 )
 puts and_test #false
+
+puts "\n\nResults of OR"
