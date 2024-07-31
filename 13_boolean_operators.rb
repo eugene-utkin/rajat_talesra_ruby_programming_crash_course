@@ -29,4 +29,4 @@ or_test = ( 10 == 10 ) || false
 puts or_test #true
 
 or_test = ( 1 != 1 ) || ( 2 == 2 )
-puts or_test
+puts or_test #false
