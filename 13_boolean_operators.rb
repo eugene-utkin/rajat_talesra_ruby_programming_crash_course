@@ -32,3 +32,4 @@ or_test = ( 1 != 1 ) || ( 2 == 2 )
 puts or_test #false
 
 puts "\n\nResults of NOT"
+puts !true
