@@ -9,4 +9,4 @@
 =end
 puts "\n\n\n"
 
-array_1 = [0, 1.0, "Two", false]
+array_1 = [0, 1.0, "Two", false] # Literal array
