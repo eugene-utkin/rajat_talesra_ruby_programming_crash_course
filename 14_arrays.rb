@@ -10,3 +10,4 @@
 puts "\n\n\n"
 
 array_1 = [0, 1.0, "Two", false] # Literal array
+# indexes  0  1     2       3
