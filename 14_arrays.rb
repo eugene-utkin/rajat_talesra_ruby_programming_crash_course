@@ -14,3 +14,4 @@ array_1 = [0, 1.0, "Two", false] # Literal array
 puts array_1
 
 array_2 = Array.new(5, "Subscribe") # Class array
+puts array_2
