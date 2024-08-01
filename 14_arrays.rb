@@ -8,3 +8,5 @@
   Arrays can have mixed data types.
 =end
 puts "\n\n\n"
+
+array_1 = [0, 1.0, "Two", false]
