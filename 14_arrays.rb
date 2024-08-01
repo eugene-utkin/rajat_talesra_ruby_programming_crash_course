@@ -7,3 +7,4 @@
 
   Arrays can have mixed data types.
 =end
+puts "\n\n\n"
