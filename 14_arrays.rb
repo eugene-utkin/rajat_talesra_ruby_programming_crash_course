@@ -21,3 +21,4 @@ puts array_2.length # 5
 
 
 puts "\n"
+puts "Accessing elements"
