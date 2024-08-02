@@ -22,3 +22,4 @@ puts array_2.length # 5
 
 puts "\n"
 puts "Accessing elements"
+puts array_1[0]
