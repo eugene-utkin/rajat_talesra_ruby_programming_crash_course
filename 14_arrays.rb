@@ -16,4 +16,4 @@ puts array_1
 array_2 = Array.new(5, "Subscribe") # Class array
 puts array_2
 
-puts array_1.size
+puts array_1.size # 4
