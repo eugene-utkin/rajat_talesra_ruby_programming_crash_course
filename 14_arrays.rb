@@ -35,4 +35,4 @@ puts array_1[1, 2] # [start_index, number_of_elements]
 puts array_1[1..3] # [start_index, end_index] including end_index
 # 1.0, "Two", false
 
-puts array_1[1...3]
+puts array_1[1...3] # [start_index, end_index] excluding end_index
