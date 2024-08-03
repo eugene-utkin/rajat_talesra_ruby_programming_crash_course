@@ -29,4 +29,4 @@ puts array_1[-2] # "Two"
 
 puts "\n\n"
 puts "Range"
-puts array_1[1, 2]
+puts array_1[1, 2] # [start_index, number_of_elements]
