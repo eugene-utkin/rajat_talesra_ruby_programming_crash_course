@@ -25,3 +25,6 @@ puts "Accessing elements"
 puts array_1[0] # 0
 puts array_1[3] # false
 puts array_1[-2] # "Two"
+
+
+puts "\n\n"
