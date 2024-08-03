@@ -31,3 +31,5 @@ puts "\n\n"
 puts "Range"
 puts array_1[1, 2] # [start_index, number_of_elements]
 # 1.0, "Two"
+
+puts array_1[1..3]
