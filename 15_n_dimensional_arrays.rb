@@ -7,3 +7,4 @@ puts grid[0][1] # 2
 puts grid[2][1] # 8
 
 grid[0][0] = 100
+puts grid[0][0]
