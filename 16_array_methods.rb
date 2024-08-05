@@ -6,3 +6,4 @@ languages.push("Ruby")
 
 puts languages
 puts languages.pop
+puts "\n"
