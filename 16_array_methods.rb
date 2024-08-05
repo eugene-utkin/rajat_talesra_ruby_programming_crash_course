@@ -5,6 +5,6 @@ languages = ["Kotlin", "JavaScript", "Java"]
 languages.push("Ruby")
 
 puts languages
-puts languages.pop
+puts languages.pop # Returns and removes the last element
 puts "\n"
 puts "Reverse"
