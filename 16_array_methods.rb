@@ -15,3 +15,4 @@ puts languages.sort
 puts "\n"
 puts "Include"
 puts languages.include?("Python") # false
+puts languages.include?("Java")
