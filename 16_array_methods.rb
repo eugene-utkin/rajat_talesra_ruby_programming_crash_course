@@ -12,3 +12,4 @@ puts languages.reverse
 puts "\n"
 puts "Sort"
 puts languages.sort
+puts "\n"
