@@ -14,3 +14,4 @@ puts "Sort"
 puts languages.sort
 puts "\n"
 puts "Include"
+puts languages.include?("Python")
