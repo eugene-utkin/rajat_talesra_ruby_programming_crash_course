@@ -10,3 +10,4 @@ puts "\n"
 puts "Reverse"
 puts languages.reverse
 puts "\n"
+puts "Sort"
