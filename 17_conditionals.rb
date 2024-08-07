@@ -12,3 +12,4 @@ if "a" > "b"
 end
 
 puts "\n"
+a = 10
