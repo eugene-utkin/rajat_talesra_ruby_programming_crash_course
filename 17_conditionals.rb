@@ -10,3 +10,5 @@ puts "\n\n\n"
 if "a" > "b"
   puts "String comparison"
 end
+
+puts "\n"
