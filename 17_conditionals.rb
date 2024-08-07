@@ -16,5 +16,5 @@ a = 10
 b = 5
 
 if a < b
-
+  puts "a is less than b!"
 end
