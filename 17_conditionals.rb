@@ -27,6 +27,6 @@ end
 puts "\n\n"
 capital_city = "New Delhi"
 
-unless capital_city == "New Delhi" # false
+unless capital_city == "New Delhi" # true
   puts "Not the capital of India!" # this will work if false
 end
