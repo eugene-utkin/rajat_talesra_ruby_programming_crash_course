@@ -32,3 +32,6 @@ unless capital_city == "New Delhi" # true
 else
   puts "Capital of India!"
 end
+
+
+puts "\n\n"
