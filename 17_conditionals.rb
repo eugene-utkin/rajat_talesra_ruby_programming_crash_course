@@ -25,3 +25,4 @@ end
 
 
 puts "\n\n"
+capital_city = "New Delhi"
