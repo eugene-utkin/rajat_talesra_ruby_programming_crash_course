@@ -27,6 +27,6 @@ end
 puts "\n\n"
 capital_city = "New Delhi"
 
-unless capital_city == "New Delhi"
+unless capital_city == "New Delhi" # false
 
 end
