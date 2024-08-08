@@ -20,4 +20,5 @@ if a < b
 elsif a > b
   puts "a is greater than b!"
 else
+  puts "a equals b!"
 end
