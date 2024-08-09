@@ -40,3 +40,5 @@ puts (5 == 6) ? "5 equals 6" : "5 is not equal to 6"
 
 
 puts"\nRUBY MODIFIERS\n\n"
+
+age = 15
