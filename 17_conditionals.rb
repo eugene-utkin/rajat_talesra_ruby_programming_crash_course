@@ -35,3 +35,4 @@ end
 
 
 puts "\n\n"
+puts (5 == 6) ? "5 equals 6" : "5 is not equal to 6"
