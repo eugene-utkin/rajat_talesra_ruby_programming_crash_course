@@ -60,3 +60,4 @@ puts name
 
 
 name = "Rajat"
+name ||= "Cat's Cradle"
