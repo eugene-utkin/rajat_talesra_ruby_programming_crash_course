@@ -61,3 +61,4 @@ puts name
 
 name = "Rajat"
 name ||= "Cat's Cradle"
+puts name
