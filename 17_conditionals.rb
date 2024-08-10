@@ -57,3 +57,6 @@ puts "You are old again" unless age <= 18
 name = nil
 name ||= "Cat's Cradle"
 puts name
+
+
+name = "Rajat"
