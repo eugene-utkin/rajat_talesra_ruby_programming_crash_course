@@ -49,3 +49,5 @@ puts "You are young again" if age <= 18
 
 age = 15
 puts "You are old" unless age <= 18
+
+age = 20
