@@ -52,3 +52,6 @@ puts "You are old" unless age <= 18
 
 age = 20
 puts "You are old again" unless age <= 18
+
+
+name = nil
