@@ -6,4 +6,5 @@ case age
   when 0..18
     puts "Study"
   when 18..60
+    puts "Job"
 end
