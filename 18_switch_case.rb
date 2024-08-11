@@ -9,4 +9,5 @@ case age
     puts "Job"
   when 60..100
     puts "Retire"
+  else
 end
