@@ -8,4 +8,5 @@ case age
   when 18..60
     puts "Job"
   when 60..100
+    puts "Retire"
 end
