@@ -3,5 +3,5 @@ puts "\n\n\n"
 
 age = 30
 case age
-
+  when 0..18
 end
