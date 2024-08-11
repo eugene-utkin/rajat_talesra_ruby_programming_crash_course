@@ -10,4 +10,5 @@ case age
   when 60..100
     puts "Retire"
   else
+    puts "Dead"
 end
