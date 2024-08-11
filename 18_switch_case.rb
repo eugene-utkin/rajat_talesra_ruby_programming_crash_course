@@ -14,3 +14,4 @@ case age
 end
 
 puts "Hello there!"
+greeting = gets.chomp
