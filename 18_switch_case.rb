@@ -12,3 +12,5 @@ case age
   else
     puts "Dead"
 end
+
+puts "Hello there!"
