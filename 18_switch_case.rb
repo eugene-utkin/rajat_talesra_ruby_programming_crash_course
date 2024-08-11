@@ -15,3 +15,6 @@ end
 
 puts "Hello there!"
 greeting = gets.chomp
+case greeting
+
+end
