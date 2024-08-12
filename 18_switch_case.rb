@@ -17,5 +17,5 @@ puts "Hello there!"
 greeting = gets.chomp
 case greeting
   when "English" then puts "Hello!"
-  when "French"
+  when "French" then puts "Bonjour!"
 end
