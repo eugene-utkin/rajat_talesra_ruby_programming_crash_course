@@ -18,4 +18,5 @@ greeting = gets.chomp
 case greeting
   when "English" then puts "Hello!"
   when "French" then puts "Bonjour!"
+  when "German"
 end
