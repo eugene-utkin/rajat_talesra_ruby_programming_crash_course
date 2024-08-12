@@ -16,5 +16,5 @@ end
 puts "Hello there!"
 greeting = gets.chomp
 case greeting
-
+  when "English"
 end
