@@ -20,4 +20,5 @@ case greeting
   when "French" then puts "Bonjour!"
   when "German" then puts "Guten Tag!"
   when "Finnish" then puts "Haloo!"
+  else
 end
