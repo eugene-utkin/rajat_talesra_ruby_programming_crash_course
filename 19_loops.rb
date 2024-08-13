@@ -2,4 +2,5 @@
 
 =begin
   for loop
+  for loop with range included and excluded
 =end
