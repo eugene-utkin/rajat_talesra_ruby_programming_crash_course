@@ -8,3 +8,5 @@
 puts "\n\n\n"
 
 my_array = ["Like", "Share", "Subscribe", "Comment"]
+
+# Looping through items
