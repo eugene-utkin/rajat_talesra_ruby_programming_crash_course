@@ -11,5 +11,5 @@ my_array = ["Like", "Share", "Subscribe", "Comment"]
 
 # Looping through items
 for item in my_array
-
+  print "#{item}"
 end
