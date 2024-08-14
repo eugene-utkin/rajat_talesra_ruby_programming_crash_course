@@ -34,5 +34,5 @@ puts "\n\n"
 
 # Number of times loop
 5.times do |index|
-
+  print "#{index}"
 end
