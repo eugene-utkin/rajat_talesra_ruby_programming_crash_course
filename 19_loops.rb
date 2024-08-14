@@ -21,3 +21,5 @@ puts "\n\n"
 for index in 0..5
   print "#{index}"
 end
+
+puts "\n\n"
