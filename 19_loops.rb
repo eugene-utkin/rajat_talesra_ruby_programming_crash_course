@@ -19,5 +19,5 @@ puts "\n\n"
 
 # Loops from 0 to 5, 5 included
 for index in 0..5
-
+  print "#{index}"
 end
