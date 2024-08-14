@@ -13,3 +13,8 @@ my_array = ["Like", "Share", "Subscribe", "Comment"]
 for item in my_array
   print "#{item}"
 end
+
+puts "\n\n"
+
+
+
