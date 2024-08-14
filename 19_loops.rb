@@ -17,4 +17,4 @@ end
 puts "\n\n"
 
 
-
+# Loops from 0 to 5, 5 included
