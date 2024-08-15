@@ -36,3 +36,5 @@ puts "\n\n"
 5.times do |index|
   print "#{index}"
 end
+
+puts "\n\n"
