@@ -8,3 +8,6 @@ while i < 5 do
   puts "Index #{i}"
   i = i + 1
 end
+
+
+puts "\n"
