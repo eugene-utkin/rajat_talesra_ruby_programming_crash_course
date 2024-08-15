@@ -2,3 +2,5 @@
 puts "\n\n\n"
 
 puts "WHILE LOOPS"
+
+i = 1
