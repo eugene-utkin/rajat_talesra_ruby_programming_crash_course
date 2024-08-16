@@ -28,5 +28,8 @@ puts "\n\nUsing Next and Break keywords\n"
 i = 0
 loop do
   i = i + 1
+  if i % 2 == 0
+
+  end
 end
 
