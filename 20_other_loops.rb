@@ -25,3 +25,5 @@ end
 
 
 puts "\n\nUsing Next and Break keywords\n"
+i = 0
+
