@@ -31,5 +31,7 @@ loop do
   if i % 2 == 0
     next # Jumps to next iteration
   end
+
+  puts "Index #{i}"
 end
 
