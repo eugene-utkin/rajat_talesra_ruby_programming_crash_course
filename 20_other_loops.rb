@@ -29,7 +29,7 @@ i = 0
 loop do
   i = i + 1
   if i % 2 == 0
-
+    next
   end
 end
 
