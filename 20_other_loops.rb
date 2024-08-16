@@ -15,5 +15,5 @@ puts "DO WHILE LOOPS"
 
 i = 1
 loop do
-
+  puts "Index #{i}"
 end
