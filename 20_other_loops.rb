@@ -16,5 +16,9 @@ puts "DO WHILE LOOPS"
 i = 1
 loop do
   puts "Index #{i}"
+
   i = i + 1
+  if i == 5
+
+  end
 end
