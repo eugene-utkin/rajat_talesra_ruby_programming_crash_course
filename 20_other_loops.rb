@@ -35,7 +35,7 @@ loop do
   puts "Index #{i}"
 
   if i >= 10
-    break
+    break # Breaks the loop
   end
 end
 
