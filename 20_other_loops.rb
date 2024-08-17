@@ -46,5 +46,5 @@ puts "UNTIL LOOP"
 i = 1
 
 until i == 5 do
-
+  puts "Index #{i}"
 end
