@@ -42,3 +42,5 @@ end
 
 puts "\n"
 puts "UNTIL LOOP"
+
+i = 1
