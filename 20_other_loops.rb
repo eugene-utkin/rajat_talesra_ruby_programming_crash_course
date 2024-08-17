@@ -33,5 +33,9 @@ loop do
   end
 
   puts "Index #{i}"
+
+  if i >= 10
+
+  end
 end
 
