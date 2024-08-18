@@ -57,3 +57,4 @@ puts "UPTO LOOPS"
 "A".upto("Z") {|item| print "#{item} "}
 
 puts "\n"
+puts "DOWNTO LOOPS"
