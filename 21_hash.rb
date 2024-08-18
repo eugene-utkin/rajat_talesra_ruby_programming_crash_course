@@ -1,1 +1,5 @@
 # Hash
+
+=begin
+
+=end
