@@ -5,4 +5,4 @@
 =end
 puts "\n\n\n"
 
-dictionary = {}
+dictionary = { "one" => "ek" }
