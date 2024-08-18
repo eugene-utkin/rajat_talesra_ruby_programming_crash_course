@@ -58,3 +58,5 @@ puts "UPTO LOOPS"
 
 puts "\n"
 puts "DOWNTO LOOPS"
+
+5.downto(1) {|item| print item}
