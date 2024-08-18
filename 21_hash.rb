@@ -4,3 +4,5 @@
   Dictionaries, Key-Value pairs
 =end
 puts "\n\n\n"
+
+dictionary = {}
