@@ -20,5 +20,5 @@ puts my_hash["random_key"]
 
 puts "\nLooping\n"
 my_hash.each do |key, value|
-
+  puts "#{key} : #{value}"
 end
