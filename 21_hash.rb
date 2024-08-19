@@ -9,3 +9,4 @@ dictionary = { "one" => "ek", "two" => "do", "three" => "teen" }
 puts dictionary["one"]
 
 my_hash = Hash.new(0)
+my_hash["hello"] = "Rajat"
