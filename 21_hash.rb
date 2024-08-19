@@ -6,3 +6,4 @@
 puts "\n\n\n"
 
 dictionary = { "one" => "ek", "two" => "do", "three" => "teen" }
+puts dictionary["one"]
