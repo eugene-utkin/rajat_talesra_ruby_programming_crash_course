@@ -15,3 +15,4 @@ my_hash[:language] = "Ruby"
 my_hash[5] = "Count" # Here 5 is key and not index. Index doesn't work in hash
 
 puts my_hash
+puts my_hash["random_key"]
