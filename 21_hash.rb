@@ -10,3 +10,4 @@ puts dictionary["one"]
 
 my_hash = Hash.new(0)
 my_hash["hello"] = "Rajat"
+my_hash[:age] = 100
