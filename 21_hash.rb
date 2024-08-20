@@ -22,3 +22,6 @@ puts "\nLooping\n"
 my_hash.each do |key, value|
   puts "#{key} : #{value}"
 end
+
+
+print "\nOnly keys: "
