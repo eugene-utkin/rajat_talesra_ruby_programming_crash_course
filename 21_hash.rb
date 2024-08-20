@@ -33,3 +33,6 @@ print "\nOnly values: "
 my_hash.each_value do |value|
   print "#{value}"
 end
+
+
+puts "\n\nHash Methods"
