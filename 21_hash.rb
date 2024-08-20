@@ -36,3 +36,5 @@ end
 
 
 puts "\n\nHash Methods"
+
+puts my_hash.fetch("hello")
