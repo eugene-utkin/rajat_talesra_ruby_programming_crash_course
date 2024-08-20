@@ -25,3 +25,6 @@ end
 
 
 print "\nOnly keys: "
+my_hash.each_key do |key|
+
+end
