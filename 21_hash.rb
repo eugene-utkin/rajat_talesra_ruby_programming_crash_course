@@ -30,3 +30,6 @@ my_hash.each_key do |key|
 end
 
 print "\nOnly values: "
+my_hash.each_value do |value|
+
+end
