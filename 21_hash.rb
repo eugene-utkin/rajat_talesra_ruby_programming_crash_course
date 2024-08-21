@@ -41,3 +41,4 @@ puts my_hash.fetch("hello")
 puts "\n\nKeys"
 print my_hash.keys
 puts "\n\nValues"
+print my_hash.values
