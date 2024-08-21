@@ -44,3 +44,4 @@ puts "\n\nValues"
 print my_hash.values
 puts "\n\n"
 puts my_hash.length
+puts my_hash.size
