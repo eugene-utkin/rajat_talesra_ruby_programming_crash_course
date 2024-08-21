@@ -42,3 +42,4 @@ puts "\n\nKeys"
 print my_hash.keys
 puts "\n\nValues"
 print my_hash.values
+puts "\n\n"
