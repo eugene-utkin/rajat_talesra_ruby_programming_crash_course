@@ -47,3 +47,4 @@ puts my_hash.length
 puts my_hash.size
 
 puts "\n\nMerge"
+puts dictionary.merge(my_hash)
