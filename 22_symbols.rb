@@ -13,5 +13,6 @@ puts "\n\n\n"
 
 actors = {
   :tom_cruise => "Mission Impossible",
-  :rock => "Red Notice"
+  :rock => "Red Notice",
+  :dev_patel => "Hotel Mumbai"
 }
