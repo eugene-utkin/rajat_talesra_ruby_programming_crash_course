@@ -26,3 +26,4 @@ puts "hello".object_id
 
 puts "\n\nSymbols object ids don't change as they ..."
 puts :hello.object_id
+puts :hello.object_id
