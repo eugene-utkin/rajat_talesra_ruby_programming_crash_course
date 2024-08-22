@@ -5,4 +5,5 @@
   - Have better performance
   - Takes less memory than strings
   - unique copy
+  - immutable
 =end
