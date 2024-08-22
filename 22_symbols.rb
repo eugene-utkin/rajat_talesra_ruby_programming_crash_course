@@ -10,3 +10,7 @@
   Useful as keys mainly
 =end
 puts "\n\n\n"
+
+actors = {
+
+}
