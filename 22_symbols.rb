@@ -16,3 +16,5 @@ actors = {
   :rock => "Red Notice",
   :dev_patel => "Hotel Mumbai"
 }
+
+puts actors
