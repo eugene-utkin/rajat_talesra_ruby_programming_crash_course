@@ -22,3 +22,4 @@ puts actors
 
 puts "\n\nString ids change"
 puts "hello".object_id
+puts "hello".object_id
