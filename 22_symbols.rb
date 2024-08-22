@@ -6,4 +6,6 @@
   - Takes less memory than strings
   - unique copy
   - immutable
+
+  Useful as keys mainly
 =end
