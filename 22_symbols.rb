@@ -18,3 +18,6 @@ actors = {
 }
 
 puts actors
+
+
+puts "\n\nString ids change"
