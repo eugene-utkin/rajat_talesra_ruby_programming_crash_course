@@ -4,4 +4,5 @@
   - starts with 'def'
   - ends with 'end'
   - has a name
+  - accepts parameters
 =end
