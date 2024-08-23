@@ -7,3 +7,7 @@
   - accepts parameters
 =end
 puts "\n\n\n"
+
+def hello
+
+end
