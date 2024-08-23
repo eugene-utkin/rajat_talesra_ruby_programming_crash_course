@@ -11,4 +11,4 @@ puts "\n\n\n"
 def hello
   puts "Method without return or params"
 end
-hello
+hello # or hello()
