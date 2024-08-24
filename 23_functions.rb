@@ -21,6 +21,6 @@ name = method_with_return
 puts "Hello, #{name}!"
 
 
-def method_with_params
+def method_with_params(number)
 
 end
