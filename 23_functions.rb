@@ -19,3 +19,8 @@ def method_with_return
 end
 name = method_with_return
 puts "Hello, #{name}!"
+
+
+def method_with_params
+
+end
