@@ -17,3 +17,4 @@ hello # or hello()
 def method_with_return
   return "Rajat"
 end
+method_with_return
