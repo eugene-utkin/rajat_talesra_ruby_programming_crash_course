@@ -25,4 +25,4 @@ def method_with_params(number)
   return number**2 # Explicit return
 end
 
-method_with_params(5)
+puts method_with_params(5)
