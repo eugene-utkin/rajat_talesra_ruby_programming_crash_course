@@ -12,3 +12,8 @@ def hello
   puts "Method without return or params"
 end
 hello # or hello()
+
+
+def method_with_return
+
+end
