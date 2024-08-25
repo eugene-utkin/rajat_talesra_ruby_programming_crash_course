@@ -27,6 +27,6 @@ end
 puts method_with_params(5)
 
 
-def implicit_return_method
+def implicit_return_method(number)
 
 end
