@@ -31,4 +31,4 @@ def implicit_return_method(number)
   puts "Inside function"
   number**2 # Implicit return
 end
-implicit_return_method(3)
+puts implicit_return_method(3)
