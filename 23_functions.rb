@@ -24,5 +24,9 @@ puts "Hello, #{name}!"
 def method_with_params(number)
   return number**2 # Explicit return
 end
-
 puts method_with_params(5)
+
+
+def implicit_return_method
+
+end
