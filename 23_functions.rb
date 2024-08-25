@@ -32,3 +32,8 @@ def implicit_return_method(number)
   number**2 # Implicit return
 end
 puts implicit_return_method(3)
+
+
+def default_arguments
+
+end
