@@ -35,5 +35,5 @@ puts implicit_return_method(3)
 
 
 def default_arguments(number=2)
-
+  number**2
 end
