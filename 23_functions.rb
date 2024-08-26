@@ -47,5 +47,7 @@ def splat_arguments(*args)
     puts "1 arguments"
   elsif args.count == 2
     puts "2 arguments"
+  elsif args.count == 3
+
   end
 end
