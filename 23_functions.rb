@@ -51,3 +51,4 @@ def splat_arguments(*args)
     puts "3 arguments"
   end
 end
+splat_arguments("1 argument")
