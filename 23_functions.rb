@@ -52,3 +52,4 @@ def splat_arguments(*args)
   end
 end
 splat_arguments("1 argument")
+splat_arguments("1 argument", "2 argument")
