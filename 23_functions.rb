@@ -38,3 +38,6 @@ def default_arguments(number=2)
   number**2
 end
 puts default_arguments
+
+
+puts "\n\nSplat operator"
