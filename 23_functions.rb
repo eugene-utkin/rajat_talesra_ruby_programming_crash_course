@@ -41,3 +41,7 @@ puts default_arguments
 
 
 puts "\n\nSplat operator"
+
+def splat_arguments
+
+end
