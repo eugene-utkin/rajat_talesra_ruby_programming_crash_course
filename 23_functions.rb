@@ -44,6 +44,6 @@ puts "\n\nSplat operator"
 
 def splat_arguments(*args)
   if args.count == 1
-
+    puts "1 arguments"
   end
 end
