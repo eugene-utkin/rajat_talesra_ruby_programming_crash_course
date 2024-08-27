@@ -54,3 +54,6 @@ end
 splat_arguments("1 argument")
 splat_arguments("1 argument", "2 argument")
 splat_arguments("1 argument", "2 argument", "3 argument")
+
+
+puts "\n\nSplat operator start"
