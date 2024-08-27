@@ -58,6 +58,6 @@ splat_arguments("1 argument", "2 argument", "3 argument")
 
 puts "\n\nSplat operator start"
 
-def splat_arguments_start(first_arg)
+def splat_arguments_start(first_arg, *args)
 
 end
