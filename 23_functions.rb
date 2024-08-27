@@ -66,3 +66,5 @@ def splat_arguments_start(first_arg, *args)
     puts "2 arguments"
   end
 end
+
+splat_arguments_start("first", "1 argument", "2 argument")
