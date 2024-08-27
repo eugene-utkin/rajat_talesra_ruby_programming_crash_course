@@ -71,3 +71,7 @@ splat_arguments_start("first", "1 argument", "2 argument")
 
 
 puts "\n\nSplat operator start and end"
+
+def splat_arguments_start_end
+
+end
