@@ -75,6 +75,6 @@ puts "\n\nSplat operator start and end"
 def splat_arguments_start_end(first_arg, *args, last_arg)
   puts first_arg
   if arg.count == 1
-
+    puts "1 arguments"
   end
 end
