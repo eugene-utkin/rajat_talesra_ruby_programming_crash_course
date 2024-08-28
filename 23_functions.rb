@@ -81,4 +81,5 @@ def splat_arguments_start_end(first_arg, *args, last_arg)
   elsif "3 arguments"
     puts "3 arguments"
   end
+  puts last_arg
 end
