@@ -83,3 +83,11 @@ def splat_arguments_start_end(first_arg, *args, last_arg)
   end
   puts last_arg
 end
+
+splat_arguments_start_end(
+  "first",
+  "1 argument",
+  "2 argument",
+  "3 argument",
+  "last"
+)
