@@ -76,5 +76,7 @@ def splat_arguments_start_end(first_arg, *args, last_arg)
   puts first_arg
   if arg.count == 1
     puts "1 arguments"
+  elsif args.count == 2
+
   end
 end
