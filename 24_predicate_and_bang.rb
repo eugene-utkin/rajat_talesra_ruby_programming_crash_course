@@ -12,3 +12,4 @@ puts "******************************************"
 
 puts "\nPredicate methods"
 puts "Rajat".include?('a')
+puts 7.odd?
