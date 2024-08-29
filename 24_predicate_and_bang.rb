@@ -8,3 +8,4 @@ puts "\n\n\n"
 
 puts "******************************************"
 puts "Predefined predicate and bang methods"
+puts "******************************************"
