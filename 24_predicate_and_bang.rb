@@ -5,3 +5,5 @@
   Bang => !, means that this method will modify the object 
 =end
 puts "\n\n\n"
+
+puts "******************************************"
