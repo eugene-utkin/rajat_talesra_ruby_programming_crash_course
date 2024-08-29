@@ -4,3 +4,4 @@
   Predicate => ?, means question, should return true or false
   Bang => !, means that this method will modify the object 
 =end
+puts "\n\n\n"
