@@ -11,3 +11,4 @@ puts "Predefined predicate and bang methods"
 puts "******************************************"
 
 puts "\nPredicate methods"
+puts "Rajat".include?('a')
