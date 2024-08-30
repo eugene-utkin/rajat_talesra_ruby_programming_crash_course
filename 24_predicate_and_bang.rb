@@ -17,3 +17,4 @@ puts "Subscribe".start_with?("C")
 
 puts "\nBang methods"
 name = "Rajat Talesra"
+puts name.upcase!
