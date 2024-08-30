@@ -29,3 +29,5 @@ puts "\nPredicate method"
 def young?(age)
   age <= 18
 end
+
+puts young?(72)
