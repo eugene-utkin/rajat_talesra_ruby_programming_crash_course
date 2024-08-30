@@ -16,3 +16,4 @@ puts 7.odd?
 puts "Subscribe".start_with?("C")
 
 puts "\nBang methods"
+name = "Rajat Talesra"
