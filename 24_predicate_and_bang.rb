@@ -26,3 +26,6 @@ puts "Creating our own predicate and bang methods"
 puts "**************************************"
 
 puts "\nPredicate method"
+def young?
+
+end
