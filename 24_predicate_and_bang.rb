@@ -24,3 +24,5 @@ puts name
 puts "\n\n**************************************"
 puts "Creating our own predicate and bang methods"
 puts "**************************************"
+
+puts "\nPredicate method"
