@@ -19,3 +19,6 @@ puts "\nBang methods"
 name = "Rajat Talesra"
 puts name.upcase!
 puts name
+
+
+puts "\n\n**************************************"
