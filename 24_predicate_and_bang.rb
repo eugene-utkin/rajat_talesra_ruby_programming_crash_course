@@ -14,3 +14,5 @@ puts "\nPredicate methods"
 puts "Rajat".include?('a')
 puts 7.odd?
 puts "Subscribe".start_with?("C")
+
+puts "\nBang methods"
