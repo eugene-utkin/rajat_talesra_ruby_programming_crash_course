@@ -36,3 +36,5 @@ puts "\nBang method"
 def modify_in_place!(num)
   num[0] *= 2
 end
+
+num = [5]
