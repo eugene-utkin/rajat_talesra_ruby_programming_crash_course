@@ -39,3 +39,4 @@ end
 
 num = [5]
 modify_in_place!(num)
+puts num[0]
