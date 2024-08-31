@@ -2,4 +2,5 @@
 
 =begin
   Combined Comparison Operator
+  a <=> b
 =end
