@@ -8,3 +8,5 @@
     -1, if a < b
 =end
 puts "\n\n\n"
+
+name_1 = "X"
