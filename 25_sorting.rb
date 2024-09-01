@@ -7,3 +7,4 @@
     1, if a > b
     -1, if a < b
 =end
+puts "\n\n\n"
