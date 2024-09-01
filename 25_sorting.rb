@@ -17,3 +17,4 @@ puts name_1 <=> name_2
 movies = ["Inception", "Dunkirk", "Oppenheimer", "Batman"]
 
 movies.sort! { |first, second| first <=> second }
+print movies
