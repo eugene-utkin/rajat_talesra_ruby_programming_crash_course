@@ -13,3 +13,5 @@ name_1 = "X"
 name_2 = "Y"
 
 puts name_1 <=> name_2
+
+movies = ["Inception", "Dunkirk", "Oppenheimer", "Batman"]
