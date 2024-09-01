@@ -18,3 +18,4 @@ movies = ["Inception", "Dunkirk", "Oppenheimer", "Batman"]
 
 movies.sort! { |first, second| first <=> second }
 print movies
+puts "\n"
