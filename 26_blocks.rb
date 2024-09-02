@@ -10,3 +10,5 @@
   { ... } and do ... end
 =end
 puts "\n\n\n"
+
+# Using do end block, used normally for a multi-line code
