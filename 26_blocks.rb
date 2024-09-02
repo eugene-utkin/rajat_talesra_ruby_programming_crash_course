@@ -18,3 +18,6 @@ end
 
 # Using curly braces {} block, used normally for single-line code
 1.times { puts "I'm {} block" }
+
+
+puts "\n\n******************************"
