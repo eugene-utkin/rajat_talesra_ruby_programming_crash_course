@@ -15,3 +15,5 @@ puts "\n\n\n"
 1.times do
   puts "I'm do end block"
 end
+
+# Using curly braces {} block, used normally for single-line code
