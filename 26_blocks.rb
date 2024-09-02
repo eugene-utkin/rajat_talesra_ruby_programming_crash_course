@@ -13,5 +13,5 @@ puts "\n\n\n"
 
 # Using do end block, used normally for a multi-line code
 1.times do
-
+  puts "I'm do end block"
 end
