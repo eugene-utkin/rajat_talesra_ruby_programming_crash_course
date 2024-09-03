@@ -30,3 +30,6 @@ puts "******************************"
 end
 
 [1, 2, 3, 4, 5].each { |number| puts "#{number} was passed to the block" }
+
+
+puts "\n\n******************************"
