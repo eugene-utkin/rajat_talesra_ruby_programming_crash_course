@@ -26,5 +26,5 @@ puts "******************************"
 
 # Block with arguments
 [1, 2, 3, 4, 5].each do |index|
-
+  puts index
 end
