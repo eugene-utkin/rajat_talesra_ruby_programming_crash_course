@@ -23,3 +23,5 @@ end
 puts "\n\n******************************"
 puts "WITH ARGUMENTS"
 puts "******************************"
+
+# Block with arguments
