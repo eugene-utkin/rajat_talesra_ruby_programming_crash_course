@@ -35,3 +35,5 @@ end
 puts "\n\n******************************"
 puts "RETURNS VALUE"
 puts "******************************"
+
+[1, 2, 3, 4, 5].select { |number| number.odd? }
