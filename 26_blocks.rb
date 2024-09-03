@@ -28,3 +28,5 @@ puts "******************************"
 [1, 2, 3, 4, 5].each do |index|
   puts index
 end
+
+[1, 2, 3, 4, 5].each { |number| puts "#{number} was passed to the block" }
