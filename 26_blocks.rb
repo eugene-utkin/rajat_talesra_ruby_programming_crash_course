@@ -44,3 +44,5 @@ puts "\n\n"
 result = [1, 2, 3, 4, 5].select do |number|
   number.odd?
 end
+
+print result # [1, 3, 5]
