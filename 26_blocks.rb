@@ -41,6 +41,6 @@ print result # [1, 3, 5]
 
 puts "\n\n"
 
-[1, 2, 3, 4, 5].select do |number|
+result = [1, 2, 3, 4, 5].select do |number|
   number.odd?
 end
