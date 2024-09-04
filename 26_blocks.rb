@@ -46,3 +46,4 @@ result = [1, 2, 3, 4, 5].select do |number|
 end
 
 print result # [1, 3, 5]
+puts "\n\n"
