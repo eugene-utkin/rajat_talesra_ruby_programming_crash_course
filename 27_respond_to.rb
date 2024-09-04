@@ -6,3 +6,4 @@
 puts "\n\n\n"
 
 age = 30
+puts age.next
