@@ -4,3 +4,5 @@
   .respond_to?
 =end
 puts "\n\n\n"
+
+age = 30
