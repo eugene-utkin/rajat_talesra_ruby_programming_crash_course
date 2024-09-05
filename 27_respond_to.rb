@@ -19,3 +19,4 @@ end
 
 calculator = Calculator.new
 puts calculator.respond_to?(:sum)
+puts calculator.respond_to?(:subtract)
