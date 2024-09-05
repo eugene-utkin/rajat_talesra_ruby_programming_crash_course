@@ -12,5 +12,7 @@ puts age.respond_to?(:next)
 puts [1, 2, 3].respond_to?(:push)
 
 class Calculator
+  def sum
 
+  end
 end
