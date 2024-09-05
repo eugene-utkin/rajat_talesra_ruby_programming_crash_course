@@ -16,3 +16,5 @@ class Calculator
     a + b
   end
 end
+
+calculator = Calculator.new
