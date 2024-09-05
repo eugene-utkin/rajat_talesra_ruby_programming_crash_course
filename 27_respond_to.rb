@@ -13,6 +13,6 @@ puts [1, 2, 3].respond_to?(:push)
 
 class Calculator
   def sum(a, b)
-
+    a + b
   end
 end
