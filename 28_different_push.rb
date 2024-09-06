@@ -8,3 +8,4 @@ print alphabet
 puts "\n"
 caption = "A giraffe surrounded by "
 caption << "weezards!"
+print caption
