@@ -6,3 +6,4 @@ alphabet << "d"
 print alphabet
 
 puts "\n"
+caption = "A giraffe surrounded by "
