@@ -19,3 +19,7 @@ def greet
   yield if block_given?
   puts "Goodbye!"
 end
+
+greet do
+
+end
