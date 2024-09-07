@@ -12,3 +12,8 @@ greet do
 end
 
 # greet # gives error
+
+
+def greet
+
+end
