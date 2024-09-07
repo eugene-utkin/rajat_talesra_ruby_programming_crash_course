@@ -16,5 +16,5 @@ end
 
 def greet
   puts "Hello!"
-  yield
+  yield if block_given?
 end
