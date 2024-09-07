@@ -16,4 +16,5 @@ end
 
 def greet
   puts "Hello!"
+  yield
 end
