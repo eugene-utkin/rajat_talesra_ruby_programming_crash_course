@@ -6,3 +6,7 @@ def greet
   yield
   puts "Goodbye!"
 end
+
+greet do
+
+end
