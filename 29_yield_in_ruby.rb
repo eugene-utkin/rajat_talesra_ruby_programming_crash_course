@@ -15,5 +15,5 @@ end
 
 
 def greet
-
+  puts "Hello!"
 end
