@@ -21,5 +21,5 @@ def greet
 end
 
 greet do
-
+  puts "Welcome to the chatroom!"
 end
