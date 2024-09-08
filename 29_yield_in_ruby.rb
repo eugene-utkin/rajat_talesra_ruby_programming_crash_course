@@ -25,3 +25,6 @@ greet do
 end
 
 greet
+
+
+# yield with params
