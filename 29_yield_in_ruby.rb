@@ -30,5 +30,5 @@ greet
 # yield with params
 
 def example(name)
-
+  puts "In the method! Let's yield."
 end
