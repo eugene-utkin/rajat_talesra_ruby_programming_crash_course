@@ -34,4 +34,5 @@ def example(name)
   yield("Ross")
   puts "In between the yields!"
   yield(name)
+  puts "Block complete! Back in the method."
 end
