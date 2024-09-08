@@ -29,6 +29,6 @@ greet
 
 # yield with params
 
-def example
+def example(name)
 
 end
