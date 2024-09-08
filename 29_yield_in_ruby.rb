@@ -28,3 +28,7 @@ greet
 
 
 # yield with params
+
+def example
+
+end
