@@ -30,7 +30,7 @@ greet
 # yield with params
 
 def example(name)
-  puts "In the method! Let's yield."
+  puts "In the method! Let's yield."         # 1
   yield("Ross")                              # 2
   puts "In between the yields!"              # 4
   yield(name)                                # 5
