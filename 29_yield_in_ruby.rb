@@ -32,4 +32,5 @@ greet
 def example(name)
   puts "In the method! Let's yield."
   yield("Ross")
+  puts "In between the yields!"
 end
