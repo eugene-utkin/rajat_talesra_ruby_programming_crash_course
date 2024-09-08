@@ -32,7 +32,7 @@ greet
 def example(name)
   puts "In the method! Let's yield."
   yield("Ross")
-  puts "In between the yields!"
+  puts "In between the yields!"              # 4
   yield(name)                                # 5
   puts "Block complete! Back in the method." # 7
 end
