@@ -36,3 +36,5 @@ def example(name)
   yield(name)                                # 5
   puts "Block complete! Back in the method." # 7
 end
+
+example("Joey") { |n| puts "My name is #{n}." }
