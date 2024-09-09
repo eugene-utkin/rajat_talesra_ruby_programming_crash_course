@@ -8,3 +8,7 @@
   - Called using `&
 =end
 puts "\n\n\n"
+
+multiples_of_5 = Proc.new do |n|
+  n % 5 == 0
+end
