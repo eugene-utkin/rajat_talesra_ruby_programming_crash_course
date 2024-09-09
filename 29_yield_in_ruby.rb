@@ -37,4 +37,4 @@ def example(name)
   puts "Block complete! Back in the method." # 7
 end
 
-example("Joey") { |n| puts "My name is #{n}." }
+example("Joey") { |n| puts "My name is #{n}." } # 3, 6
