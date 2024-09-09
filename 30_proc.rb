@@ -7,3 +7,4 @@
   - Procs can be called explicitly using the call method
   - Called using `&
 =end
+puts "\n\n\n"
