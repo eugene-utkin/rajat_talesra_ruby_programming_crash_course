@@ -31,3 +31,4 @@ puts "Even numbers in list 2: #{even_numbers_2}"
 puts "\n"
 
 cube = Proc.new { |x| x ** 3 }
+[1, 2, 3].collect!(&cube)
