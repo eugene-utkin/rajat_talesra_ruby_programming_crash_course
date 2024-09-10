@@ -29,3 +29,5 @@ puts "Even numbers in list 1: #{even_numbers_1}"
 puts "Even numbers in list 2: #{even_numbers_2}"
 
 puts "\n"
+
+cube = Proc.new { |x| x ** 3 }
