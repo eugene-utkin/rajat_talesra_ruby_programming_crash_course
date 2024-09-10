@@ -24,3 +24,6 @@ numbers_2 = [10, 11, 12, 13, 14, 15, 16, 17, 18]
 
 even_numbers_1 = numbers_1.select(&is_even)
 even_numbers_2 = numbers_2.select(&is_even)
+
+puts "Even numbers in list 1: #{even_numbers_1}"
+
