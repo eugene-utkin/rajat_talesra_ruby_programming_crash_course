@@ -28,7 +28,10 @@ even_numbers_2 = numbers_2.select(&is_even)
 puts "Even numbers in list 1: #{even_numbers_1}"
 puts "Even numbers in list 2: #{even_numbers_2}"
 
+
 puts "\n"
 
 cube = Proc.new { |x| x ** 3 }
 [1, 2, 3].collect!(&cube)
+
+puts "\n"
