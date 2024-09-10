@@ -18,3 +18,5 @@ print (1..100).to_a.select(&multiples_of_5)
 puts "\n\n\n"
 
 is_even = Proc.new { |num| num.even? }
+
+numbers_1 = [1, 2, 3, 4, 5, 6, 7, 8, 9]
