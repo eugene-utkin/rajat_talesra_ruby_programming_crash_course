@@ -42,3 +42,5 @@ puts "\n\n"
 hello = Proc.new do
   puts "Hello Rajat!"
 end
+
+hello.call
