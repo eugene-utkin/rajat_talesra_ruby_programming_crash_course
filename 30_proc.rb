@@ -33,5 +33,5 @@ puts "\n"
 
 cube = Proc.new { |x| x ** 3 }
 [1, 2, 3].collect!(&cube)
-
 puts "\n"
+[4, 5, 6].map!(&cube)
