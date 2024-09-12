@@ -8,3 +8,4 @@
 puts "\n\n\n"
 
 # Lambda
+my_lambda = -> (x) { x * 2 }
