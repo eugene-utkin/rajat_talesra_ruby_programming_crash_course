@@ -20,4 +20,4 @@ puts my_proc.call(3) # Output: 6
 lambda_example = ->(x) { puts x }
 proc_example = Proc.new { |x| puts x }
 
-lambda_example.call(1, 2)
+lambda_example.call(1, 2)  # Output: ArgumentError: wrong number of arguments
