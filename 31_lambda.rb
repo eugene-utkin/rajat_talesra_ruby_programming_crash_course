@@ -9,4 +9,4 @@ puts "\n\n\n"
 
 # Lambda
 my_lambda = -> (x) { x * 2 }
-puts my_lambda.call(3)
+puts my_lambda.call(3) # Output: 6
