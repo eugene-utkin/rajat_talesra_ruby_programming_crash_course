@@ -13,3 +13,4 @@ puts my_lambda.call(3) # Output: 6
 
 # Proc
 my_proc = Proc.new { |x| x * 2 }
+my_proc.call(3)
