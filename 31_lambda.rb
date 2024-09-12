@@ -18,3 +18,4 @@ puts my_proc.call(3) # Output: 6
 
 # Additional Argument
 lambda_example = ->(x) { puts x }
+proc_example = Proc.new { |x| puts x }
