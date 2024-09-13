@@ -22,3 +22,6 @@ proc_example = Proc.new { |x| puts x }
 
 # lambda_example.call(1, 2)  # Output: ArgumentError: wrong number of arguments
 proc_example.call(1, 2)      # Output: 1
+
+
+# Return Behavior
