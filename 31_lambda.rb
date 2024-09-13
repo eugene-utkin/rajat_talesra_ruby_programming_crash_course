@@ -38,4 +38,5 @@ def method_with_proc
   # control does not come back here
   text = my_proc.call
   puts text
+  return "Method continues after proc"
 end
