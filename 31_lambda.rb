@@ -28,4 +28,5 @@ proc_example.call(1, 2)      # Output: 1
 def method_with_lambda
   my_lambda = -> { return "Returned from lambda" }
   # control comes back here
+  text = my_lambda.call
 end
