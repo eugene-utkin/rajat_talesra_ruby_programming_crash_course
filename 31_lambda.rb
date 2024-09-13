@@ -26,5 +26,5 @@ proc_example.call(1, 2)      # Output: 1
 
 # Return Behavior
 def method_with_lambda
-
+  my_lambda = -> { return "Returned from lambda" }
 end
