@@ -35,4 +35,5 @@ end
 
 def method_with_proc
   my_proc = Proc.new { return "Returned from proc" }
+  # control does not come back here
 end
