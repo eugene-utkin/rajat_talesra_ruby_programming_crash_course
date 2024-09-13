@@ -29,4 +29,5 @@ def method_with_lambda
   my_lambda = -> { return "Returned from lambda" }
   # control comes back here
   text = my_lambda.call
+  puts text
 end
