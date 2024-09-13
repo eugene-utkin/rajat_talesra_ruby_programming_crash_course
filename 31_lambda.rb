@@ -32,3 +32,7 @@ def method_with_lambda
   puts text
   return "Method continues after lambda"
 end
+
+def method_with_proc
+
+end
