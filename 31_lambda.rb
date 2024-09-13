@@ -34,5 +34,5 @@ def method_with_lambda
 end
 
 def method_with_proc
-
+  my_proc = Proc.new { return "Returned from proc" }
 end
