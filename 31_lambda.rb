@@ -30,4 +30,5 @@ def method_with_lambda
   # control comes back here
   text = my_lambda.call
   puts text
+  return "Method continues after lambda"
 end
