@@ -6,4 +6,5 @@
     StandardError
     NoMethodError
     IOError
+    TypeError
 =end
