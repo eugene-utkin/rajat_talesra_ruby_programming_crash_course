@@ -8,4 +8,5 @@
     IOError
     TypeError
     ArgumentError
+    ZeroDivisionError
 =end
