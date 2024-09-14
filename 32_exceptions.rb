@@ -2,4 +2,5 @@
 
 =begin
   Some common errors:
+    RuntimeError
 =end
