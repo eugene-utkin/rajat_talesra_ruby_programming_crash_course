@@ -7,4 +7,5 @@
     NoMethodError
     IOError
     TypeError
+    ArgumentError
 =end
