@@ -40,3 +40,5 @@ def method_with_proc
   puts text
   return "Method continues after proc"
 end
+
+puts method_with_lambda
