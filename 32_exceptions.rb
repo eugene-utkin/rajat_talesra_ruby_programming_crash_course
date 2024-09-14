@@ -5,4 +5,5 @@
     RuntimeError
     StandardError
     NoMethodError
+    IOError
 =end
