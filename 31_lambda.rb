@@ -43,3 +43,4 @@ end
 
 puts method_with_lambda
 puts "\n\n"
+puts method_with_proc
