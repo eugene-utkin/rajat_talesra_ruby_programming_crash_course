@@ -4,4 +4,5 @@
   Some common errors:
     RuntimeError
     StandardError
+    NoMethodError
 =end
