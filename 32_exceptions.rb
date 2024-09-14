@@ -1,1 +1,5 @@
 # Exceptions handling
+
+=begin
+
+=end
