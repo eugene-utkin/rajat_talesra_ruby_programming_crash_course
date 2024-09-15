@@ -15,5 +15,5 @@ puts "\n\n\n"
 # a = 100/0
 
 begin
-
+  a = 100/0
 end
