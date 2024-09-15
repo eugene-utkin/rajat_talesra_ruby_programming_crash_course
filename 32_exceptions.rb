@@ -23,4 +23,6 @@ end
 
 begin
   a = 100/0
+rescue ZeroDivisionError
+
 end
