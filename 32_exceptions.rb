@@ -24,5 +24,5 @@ end
 begin
   a = 100/0
 rescue ZeroDivisionError
-
+  puts "Cannot divide by 0"
 end
