@@ -11,3 +11,5 @@
     ZeroDivisionError
 =end
 puts "\n\n\n"
+
+a = 100/0
