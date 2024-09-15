@@ -16,4 +16,5 @@ puts "\n\n\n"
 
 begin
   a = 100/0
+rescue
 end
