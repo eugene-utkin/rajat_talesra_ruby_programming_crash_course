@@ -22,5 +22,5 @@ end
 
 
 begin
-
+  a = 100/0
 end
