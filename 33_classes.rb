@@ -8,3 +8,4 @@ puts 5.class
 # This is a class
 class Calculator
 end
+# You can create a new instance of class like this:
