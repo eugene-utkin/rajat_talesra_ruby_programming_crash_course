@@ -13,7 +13,7 @@ calculator = Calculator.new
 puts calculator.class
 
 class Calculator
-  def sum
+  def sum(a, b)
 
   end
 end
