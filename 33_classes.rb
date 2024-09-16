@@ -9,3 +9,4 @@ puts 5.class
 class Calculator
 end
 # You can create a new instance of class like this:
+calculator = Calculator.new
