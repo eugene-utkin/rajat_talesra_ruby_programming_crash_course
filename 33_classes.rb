@@ -2,4 +2,4 @@
 
 puts "\n\n\n"
 
-"this is a string".class
+puts "this is a string".class
