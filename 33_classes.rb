@@ -24,3 +24,5 @@ puts calculator.sum(5, 10)
 
 calculator2 = Calculator.new
 puts calculator2.sum(5, 10)
+
+puts calculator.object_id
