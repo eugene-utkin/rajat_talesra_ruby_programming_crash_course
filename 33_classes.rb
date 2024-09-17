@@ -19,3 +19,4 @@ class Calculator
 end
 
 calculator = Calculator.new
+calculator.sum(5, 10)
