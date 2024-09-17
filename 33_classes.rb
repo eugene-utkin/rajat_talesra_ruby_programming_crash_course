@@ -23,4 +23,4 @@ puts calculator.sum(5, 10)
 
 
 calculator2 = Calculator.new
-calculator2.sum(5, 10)
+puts calculator2.sum(5, 10)
