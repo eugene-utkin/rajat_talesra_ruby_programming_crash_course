@@ -20,3 +20,6 @@ end
 
 calculator = Calculator.new
 puts calculator.sum(5, 10)
+
+
+calculator2 = Calculator.new
