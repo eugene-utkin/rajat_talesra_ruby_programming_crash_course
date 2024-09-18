@@ -8,6 +8,6 @@ class Person
   end
 
   def greet
-
+    puts "Welcome #{@name}"
   end
 end
