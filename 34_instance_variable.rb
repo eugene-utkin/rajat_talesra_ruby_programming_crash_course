@@ -3,6 +3,7 @@
 puts "\n\n\n"
 # Initializing objects in class
 class Person
-  def initialize
+  def initialize(name)
+
   end
 end
