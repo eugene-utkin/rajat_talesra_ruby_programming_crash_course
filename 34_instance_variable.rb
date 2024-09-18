@@ -18,6 +18,6 @@ user.greet
 
 class Person
   def initialize(name)
-    @name = name
+    @name = name # Here @ means that it's an instance variable
   end
 end
