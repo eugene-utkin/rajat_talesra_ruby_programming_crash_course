@@ -11,3 +11,5 @@ class Person
     puts "Welcome #{@name}"
   end
 end
+
+user = Person.new("Rajat")
