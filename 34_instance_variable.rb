@@ -20,4 +20,7 @@ class Person
   def initialize(name)
     @name = name # Here @ means that it's an instance variable
   end
+
+  def name
+  end
 end
