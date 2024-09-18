@@ -17,5 +17,6 @@ user.greet
 
 
 class Person
-
+  def initialize
+  end
 end
