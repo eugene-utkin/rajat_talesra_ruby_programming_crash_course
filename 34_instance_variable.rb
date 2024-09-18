@@ -14,3 +14,8 @@ end
 
 user = Person.new("Rajat")
 user.greet
+
+
+class Person
+
+end
