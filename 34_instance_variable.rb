@@ -18,6 +18,6 @@ user.greet
 
 class Person
   def initialize(name)
-
+    @name = name
   end
 end
