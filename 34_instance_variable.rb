@@ -28,4 +28,4 @@ end
 
 person = Person.new("Rajat")
 puts person.name
-person.instance_variables
+puts person.instance_variables
