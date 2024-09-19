@@ -4,5 +4,5 @@
 puts "\n\n\n"
 
 class MyClass
-
+  $my_variable = "Hello!"
 end
