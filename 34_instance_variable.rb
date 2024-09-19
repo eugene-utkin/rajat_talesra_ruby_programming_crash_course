@@ -27,4 +27,4 @@ class Person
 end
 
 person = Person.new("Rajat")
-person.name
+puts person.name
