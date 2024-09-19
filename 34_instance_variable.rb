@@ -27,3 +27,4 @@ class Person
 end
 
 person = Person.new("Rajat")
+person.name
