@@ -14,3 +14,5 @@ class Person
     @@people_count
   end
 end
+
+rajat = Person.new("Rajat")
