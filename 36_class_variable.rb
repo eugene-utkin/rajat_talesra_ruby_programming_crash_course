@@ -11,6 +11,6 @@ class Person
   end
 
   def self.number_of_instances
-
+    @@people_count
   end
 end
