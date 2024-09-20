@@ -16,3 +16,4 @@ class Person
 end
 
 rajat = Person.new("Rajat")
+virat = Person.new("Virat")
