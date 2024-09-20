@@ -7,5 +7,6 @@ class Person
 
   def initialize(name)
     @name = name
+    @@people_count += 1
   end
 end
