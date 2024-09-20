@@ -9,4 +9,8 @@ class Person
     @name = name
     @@people_count += 1
   end
+
+  def self.number_of_instances
+
+  end
 end
