@@ -5,7 +5,7 @@ puts "\n\n\n"
 class Person
   @@people_count = 0
 
-  def initialize
+  def initialize(name)
   
   end
 end
