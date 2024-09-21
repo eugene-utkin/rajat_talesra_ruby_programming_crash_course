@@ -22,3 +22,4 @@ puts "Number of Person instances: #{Person.number_of_instances}"
 
 # local
 # instance @
+# class   @@
