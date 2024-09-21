@@ -6,3 +6,7 @@ class Animal
     "An animal makes a sound"
   end
 end
+
+class Dog
+
+end
