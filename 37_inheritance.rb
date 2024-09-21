@@ -7,6 +7,6 @@ class Animal
   end
 end
 
-class Dog
+class Dog < Animal
 
 end
