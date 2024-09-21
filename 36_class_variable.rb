@@ -19,3 +19,5 @@ rajat = Person.new("Rajat")
 virat = Person.new("Virat")
 
 puts "Number of Person instances: #{Person.number_of_instances}"
+
+# local
