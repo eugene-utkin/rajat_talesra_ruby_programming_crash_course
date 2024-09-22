@@ -9,6 +9,6 @@ end
 
 class Dog < Animal
   def speak
-
+    "Woof!"
   end
 end
