@@ -14,5 +14,7 @@ class Dog < Animal
 end
 
 class Cat < Animal
+  def speak
 
+  end
 end
