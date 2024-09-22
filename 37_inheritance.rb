@@ -13,6 +13,6 @@ class Dog < Animal
   end
 end
 
-class Cat
+class Cat < Animal
 
 end
