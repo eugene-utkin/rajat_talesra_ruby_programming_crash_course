@@ -20,3 +20,4 @@ class Cat < Animal
 end
 
 animal = Animal.new
+puts animal.speak
