@@ -8,5 +8,7 @@ class Animal
 end
 
 class Dog < Animal
+  def speak
 
+  end
 end
