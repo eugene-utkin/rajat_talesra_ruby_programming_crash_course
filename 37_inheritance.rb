@@ -18,3 +18,5 @@ class Cat < Animal
     "Meow!"
   end
 end
+
+animal = Animal.new
