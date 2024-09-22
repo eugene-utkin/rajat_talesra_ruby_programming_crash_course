@@ -12,3 +12,7 @@ class Dog < Animal
     "Woof!"
   end
 end
+
+class Cat
+
+end
