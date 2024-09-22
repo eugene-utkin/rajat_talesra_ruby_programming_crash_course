@@ -15,6 +15,6 @@ end
 
 class Cat < Animal
   def speak
-
+    "Meow!"
   end
 end
