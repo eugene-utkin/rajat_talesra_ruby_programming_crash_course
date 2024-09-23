@@ -30,3 +30,5 @@ puts dog.speak # Output: Woof!
 
 cat = Cat.new
 puts cat.speak # Output: Meow!
+
+unknown = UnknownAnimal.new
