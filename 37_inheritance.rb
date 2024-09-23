@@ -19,6 +19,9 @@ class Cat < Animal
   end
 end
 
+class UnknownAnimal
+end
+
 animal = Animal.new
 puts animal.speak # Output: An animal makes a sound.
 
