@@ -19,7 +19,7 @@ class Cat < Animal
   end
 end
 
-class UnknownAnimal
+class UnknownAnimal < Animal
 end
 
 animal = Animal.new
