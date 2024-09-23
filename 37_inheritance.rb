@@ -32,3 +32,4 @@ cat = Cat.new
 puts cat.speak # Output: Meow!
 
 unknown = UnknownAnimal.new
+unknown.speak
