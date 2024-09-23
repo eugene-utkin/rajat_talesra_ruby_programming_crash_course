@@ -24,3 +24,5 @@ puts animal.speak # Output: An animal makes a sound.
 
 dog = Dog.new
 puts dog.speak # Output: Woof!
+
+cat = Cat.new
