@@ -26,4 +26,4 @@ dog = Dog.new
 puts dog.speak # Output: Woof!
 
 cat = Cat.new
-puts cat.speak
+puts cat.speak # Output: Meow!
