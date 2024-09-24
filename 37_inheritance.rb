@@ -38,5 +38,6 @@ puts unknown.speak # Output: An animal makes a sound.
 class Cat < Animal
   def speak
     "Meow!"
+    super
   end
 end
