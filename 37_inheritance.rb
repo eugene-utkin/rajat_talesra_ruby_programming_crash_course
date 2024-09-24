@@ -48,5 +48,6 @@ puts cat.speak # Output: An animal makes a sound.
 class Cat < Animal
   def speak
     puts "Cat class speak is getting called"
+    super
   end
 end
