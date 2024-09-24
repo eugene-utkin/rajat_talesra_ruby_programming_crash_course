@@ -35,6 +35,6 @@ unknown = UnknownAnimal.new
 puts unknown.speak # Output: An animal makes a sound.
 
 # TODO: Now use super to override
-class Cat
+class Cat < Animal
 
 end
