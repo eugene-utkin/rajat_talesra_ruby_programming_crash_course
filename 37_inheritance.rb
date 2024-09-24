@@ -41,3 +41,5 @@ class Cat < Animal
     super
   end
 end
+
+cat = Cat.new
