@@ -36,5 +36,7 @@ puts unknown.speak # Output: An animal makes a sound.
 
 # TODO: Now use super to override
 class Cat < Animal
+  def speak
 
+  end
 end
