@@ -55,3 +55,4 @@ end
 cat = Cat.new
 puts cat.speak
 # Output:
+# Cat class speak is getting called
