@@ -7,6 +7,7 @@ puts "\n\n\n"
 
 
 class Dog
-  def initialize
+  def initialize(name)
+
   end
 end
