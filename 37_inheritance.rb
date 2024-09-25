@@ -56,3 +56,4 @@ cat = Cat.new
 puts cat.speak
 # Output:
 # Cat class speak is getting called
+# An animal makes a sound.
