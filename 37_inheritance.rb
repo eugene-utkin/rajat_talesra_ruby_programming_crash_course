@@ -53,3 +53,4 @@ class Cat < Animal
 end
 
 cat = Cat.new
+cat.speak
