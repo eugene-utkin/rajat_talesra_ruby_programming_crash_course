@@ -29,4 +29,4 @@ end
 
 dog = Dog.new("Tommy", "German")
 dog.bark
-dog.ssn # Throws error
+# dog.ssn # Throws error
