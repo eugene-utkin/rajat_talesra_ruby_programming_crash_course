@@ -13,4 +13,7 @@ class Dog
   end
 
   public
+  def bark
+
+  end
 end
