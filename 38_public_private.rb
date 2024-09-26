@@ -26,3 +26,5 @@ class Dog
     @ssn = 54321
   end
 end
+
+dog = Dog.new("Tommy", "German")
