@@ -23,6 +23,6 @@ class Dog
   end
 
   def ssn
-
+    @ssn = 54321
   end
 end
