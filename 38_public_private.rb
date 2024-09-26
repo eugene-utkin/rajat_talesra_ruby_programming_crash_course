@@ -28,3 +28,4 @@ class Dog
 end
 
 dog = Dog.new("Tommy", "German")
+dog.bark
