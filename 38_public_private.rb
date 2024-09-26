@@ -14,6 +14,6 @@ class Dog
 
   public
   def bark
-
+    puts "Woof!"
   end
 end
