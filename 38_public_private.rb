@@ -18,4 +18,7 @@ class Dog
   end
 
   private
+  def id
+
+  end
 end
