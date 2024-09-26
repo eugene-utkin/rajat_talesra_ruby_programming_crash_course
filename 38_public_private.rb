@@ -21,4 +21,8 @@ class Dog
   def id
     @id_number = 12345
   end
+
+  def ssn
+
+  end
 end
