@@ -11,4 +11,5 @@ puts "\n\n\n"
 class Person
   attr_reader :name
   attr_writer :age
+  attr_accessor :profession
 end
