@@ -5,3 +5,4 @@
   attr_writer - creates a setter method
   attr_accessor - creates both
 =end
+puts "\n\n\n"
