@@ -3,4 +3,5 @@
 =begin
   attr_reader - creates a getter method
   attr_writer - creates a setter method
+  attr_accessor - creates both
 =end
