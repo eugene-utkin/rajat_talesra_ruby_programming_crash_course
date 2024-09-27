@@ -6,3 +6,8 @@
   attr_accessor - creates both
 =end
 puts "\n\n\n"
+
+
+class Person
+
+end
