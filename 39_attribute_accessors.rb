@@ -12,4 +12,8 @@ class Person
   attr_reader :name
   attr_writer :age
   attr_accessor :profession
+
+  def initialize
+
+  end
 end
