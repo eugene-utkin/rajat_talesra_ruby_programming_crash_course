@@ -13,7 +13,7 @@ class Person
   attr_writer :age
   attr_accessor :profession
 
-  def initialize(name, age)
+  def initialize(name, age, profession)
 
   end
 end
