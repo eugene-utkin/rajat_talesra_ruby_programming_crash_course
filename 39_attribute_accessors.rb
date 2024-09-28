@@ -26,4 +26,4 @@ puts person.name  # Output: Rajat
 
 person.age = 31
 
-person.profession
+puts person.profession
