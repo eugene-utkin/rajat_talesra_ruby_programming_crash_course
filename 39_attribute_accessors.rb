@@ -22,4 +22,4 @@ end
 
 person = Person.new("Rajat", 30, "Engineer")
 
-person.name
+puts person.name
