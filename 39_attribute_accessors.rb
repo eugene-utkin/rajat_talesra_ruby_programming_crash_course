@@ -25,3 +25,5 @@ person = Person.new("Rajat", 30, "Engineer")
 puts person.name  # Output: Rajat
 
 person.age = 31
+
+person.profession
