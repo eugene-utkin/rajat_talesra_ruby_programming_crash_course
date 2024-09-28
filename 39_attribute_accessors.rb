@@ -19,3 +19,5 @@ class Person
     @profession = profession
   end
 end
+
+person = Person.new("Rajat", 30, "Engineer")
