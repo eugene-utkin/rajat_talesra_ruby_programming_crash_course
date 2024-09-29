@@ -28,4 +28,4 @@ person.age = 31
 
 puts person.profession  # Output: Engineer
 person.profession = "Software Developer"
-puts person.profession
+puts person.profession  # Output: Software Developer
