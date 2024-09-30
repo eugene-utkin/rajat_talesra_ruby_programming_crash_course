@@ -11,3 +11,4 @@ puts "\n\n\n"
 puts Math::PI
 
 require 'date' # importing date module
+Date.today
