@@ -12,3 +12,7 @@ puts Math::PI
 
 require 'date' # importing date module
 puts Date.today
+
+module Circle
+
+end
