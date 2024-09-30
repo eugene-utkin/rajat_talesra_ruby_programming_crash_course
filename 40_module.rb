@@ -15,4 +15,5 @@ puts Date.today
 
 module Circle
 
+  PI = 3.141592653589793
 end
