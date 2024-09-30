@@ -7,4 +7,4 @@
 =end
 puts "\n\n\n"
 
-Math::PI
+puts Math::PI
