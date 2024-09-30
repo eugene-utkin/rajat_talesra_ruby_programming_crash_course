@@ -5,3 +5,4 @@
   They are like class but cannot create instance variables
   and can't have subclasses.
 =end
+puts "\n\n\n"
