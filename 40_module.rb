@@ -6,3 +6,5 @@
   and can't have subclasses.
 =end
 puts "\n\n\n"
+
+Math::PI
