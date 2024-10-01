@@ -21,7 +21,7 @@ module Circle
     PI * radius ** 2
   end
 
-  def Circle.circumference
+  def Circle.circumference(radius)
 
   end
 end
