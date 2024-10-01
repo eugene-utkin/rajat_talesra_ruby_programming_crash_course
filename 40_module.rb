@@ -20,4 +20,8 @@ module Circle
   def Circle.area(radius)
     PI * radius ** 2
   end
+
+  def Circle.circumference
+
+  end
 end
