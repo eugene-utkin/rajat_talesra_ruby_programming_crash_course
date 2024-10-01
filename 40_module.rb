@@ -26,5 +26,6 @@ module Circle
   end
 end
 
+puts Circle::PI
 puts Circle.area(4)
 puts Circle.circumference(4)
