@@ -27,4 +27,4 @@ module Circle
 end
 
 puts Circle.area(4)
-Circle.circumference(4)
+puts Circle.circumference(4)
