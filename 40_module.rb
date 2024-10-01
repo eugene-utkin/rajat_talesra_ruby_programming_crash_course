@@ -25,3 +25,5 @@ module Circle
     2 * PI * radius
   end
 end
+
+Circle.area(4)
