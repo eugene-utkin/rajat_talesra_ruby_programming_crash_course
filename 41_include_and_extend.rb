@@ -16,6 +16,6 @@ class Rabbit < Animal
   include Action
   attr_reader :name
   def initialize(name)
-
+    @name = name
   end
 end
