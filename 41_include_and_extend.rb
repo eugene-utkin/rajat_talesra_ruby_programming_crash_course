@@ -12,6 +12,6 @@ module Action
 end
 
 
-class Rabbit
+class Rabbit < Animal
 
 end
