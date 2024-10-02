@@ -19,3 +19,5 @@ class Rabbit < Animal
     @name = name
   end
 end
+
+peter = Rabbit.new("Peter")
