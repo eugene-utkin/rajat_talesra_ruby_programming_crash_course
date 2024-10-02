@@ -5,5 +5,7 @@
 puts "\n\n\n"
 
 module Action
+  def jump
 
+  end
 end
