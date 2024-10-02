@@ -10,3 +10,8 @@ module Action
     puts "I jumped forward #{@distance} feet!"
   end
 end
+
+
+class Rabbit
+
+end
