@@ -7,5 +7,6 @@ puts "\n\n\n"
 module Action
   def jump
     @distance = rand(4) + 2
+    puts "I jumped forward #{@distance} feet!"
   end
 end
