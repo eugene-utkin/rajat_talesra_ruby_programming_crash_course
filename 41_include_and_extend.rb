@@ -14,4 +14,5 @@ end
 
 class Rabbit < Animal
   include Action
+  attr_reader :name
 end
