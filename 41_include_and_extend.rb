@@ -13,5 +13,5 @@ end
 
 
 class Rabbit < Animal
-
+  include Action
 end
