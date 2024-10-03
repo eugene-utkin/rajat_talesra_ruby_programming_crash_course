@@ -36,3 +36,5 @@ class Kangaroo
     @name = name
   end
 end
+
+jack = Kangaroo.new("Jack")
