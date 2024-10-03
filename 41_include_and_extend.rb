@@ -38,3 +38,4 @@ class Kangaroo
 end
 
 jack = Kangaroo.new("Jack")
+jack.jump
