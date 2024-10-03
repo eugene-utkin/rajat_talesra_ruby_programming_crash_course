@@ -12,7 +12,9 @@ module Action
 end
 
 class Animal
+  def speak
 
+  end
 end
 
 class Rabbit < Animal
