@@ -28,3 +28,7 @@ end
 peter = Rabbit.new("Peter")
 peter.jump
 puts peter.speak
+
+class Kangaroo
+
+end
