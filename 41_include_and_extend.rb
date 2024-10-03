@@ -13,7 +13,7 @@ end
 
 class Animal
   def speak
-
+    "An animal makes a sound."
   end
 end
 
