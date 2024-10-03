@@ -32,7 +32,7 @@ puts peter.speak
 class Kangaroo
   include Action
   attr_reader :name
-  def initialize
+  def initialize(name)
 
   end
 end
