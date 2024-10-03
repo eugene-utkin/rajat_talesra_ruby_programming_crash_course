@@ -30,5 +30,5 @@ peter.jump
 puts peter.speak
 
 class Kangaroo
-
+  include Action
 end
