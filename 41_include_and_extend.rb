@@ -26,3 +26,4 @@ class Rabbit < Animal
 end
 
 peter = Rabbit.new("Peter")
+peter.jump
