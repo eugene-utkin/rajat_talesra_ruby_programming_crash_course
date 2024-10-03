@@ -27,3 +27,4 @@ end
 
 peter = Rabbit.new("Peter")
 peter.jump
+peter.speak
