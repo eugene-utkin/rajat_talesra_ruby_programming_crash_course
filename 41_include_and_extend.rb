@@ -41,5 +41,7 @@ jack = Kangaroo.new("Jack")
 jack.jump
 
 module ThePresent
+  def now
 
+  end
 end
