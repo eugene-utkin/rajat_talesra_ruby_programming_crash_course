@@ -50,4 +50,4 @@ class TheHereAnd
   extend ThePresent
 end
 
-TheHereAnd.now
+TheHereAnd.now # works at class level
