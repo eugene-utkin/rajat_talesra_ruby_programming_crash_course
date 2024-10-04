@@ -47,5 +47,5 @@ module ThePresent
 end
 
 class TheHereAnd
-
+  extend ThePresent
 end
