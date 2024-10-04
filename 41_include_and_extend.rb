@@ -49,3 +49,5 @@ end
 class TheHereAnd
   extend ThePresent
 end
+
+TheHereAnd.now
