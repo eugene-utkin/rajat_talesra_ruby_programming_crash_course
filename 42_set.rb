@@ -13,5 +13,5 @@ test_set.add(3)
 test_set.add("Like, share, subscribe")
 
 test_set.each do |element|
-
+  puts element
 end
